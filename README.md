@@ -4,7 +4,7 @@
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" /><img  src="https://leetcode-stats-six.vercel.app/api?username=Ryujin_b)](https://github.com/cagatay-softgineer/" alt="cagatay-softgineer" /></p>
   <img  src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=false&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" />
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="cagatay-softgineer" />
 </span>
@@ -33,7 +33,7 @@
 <a href="https://open.spotify.com/user/xyypabyfrp3z0le7niauo8s0l?si=ab88c1d4aa6645c0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
-[![Çağatay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ryujin_b)](https://github.com/cagatay-softgineer/)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
