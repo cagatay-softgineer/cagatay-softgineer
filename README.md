@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-tr/track/7xiw42KTmCcqfZNCZqUcnF?si=c16ab0003318430d)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
