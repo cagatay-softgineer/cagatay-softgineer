@@ -36,12 +36,13 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="center">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" />   <img  src="https://leetcode-stats-six.vercel.app/api?username=Ryujin_b" alt="cagatay-softgineer" /></p>
-  <img  src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=false&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="cagatay-softgineer" />
+
 </span>
 <span align="right">
-
-
+  <p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=false&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="cagatay-softgineer" />
+  </p>
 </span>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&margin-w=15" alt="cagatay-softgineer" /></a> 
