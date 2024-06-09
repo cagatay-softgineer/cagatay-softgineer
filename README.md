@@ -5,9 +5,13 @@
 ### About Me
 
 💼 I'm currently exploring various opportunities in the tech industry.
+
 🎓 I hold a degree in computer science from Firat University in Elazığ.
+
 💻 My areas of expertise include computers, software development, and Photoshop.
+
 🌱 I'm constantly learning and exploring new technologies and frameworks.
+
 📫 You can reach me via email at cagatayalkan.b@gmail.com.
 
 ### Projects
