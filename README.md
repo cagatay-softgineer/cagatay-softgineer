@@ -24,3 +24,5 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
