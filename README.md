@@ -26,9 +26,12 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
 </p>
 
+<h2>☣️ &nbsp;Social Media</h2>
+<p>
 <a href="https://www.linkedin.com/in/cagatay-softgineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/cxgxtxyxlkxn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/xyypabyfrp3z0le7niauo8s0l?si=ab88c1d4aa6645c0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
