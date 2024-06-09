@@ -33,7 +33,7 @@
 <a href="https://open.spotify.com/user/xyypabyfrp3z0le7niauo8s0l?si=ab88c1d4aa6645c0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
-[![Çağatay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ryujin_b)](https://github.com/cagatay-softgineer/)
+[![Çağatay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ryujin_b)](https://github.com/cagatay-softgineer/)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyypabyfrp3z0le7niauo8s0l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
