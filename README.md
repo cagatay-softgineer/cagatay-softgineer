@@ -1,5 +1,33 @@
 ## Hi there 👋
 
+#### 👋 Welcome to my GitHub profile! I'm Çağatay, a passionate Backend Dev with a strong interest in anything related to computer science (CS). Here you'll find a variety of projects and contributions related to computers, software development, and Photoshop.
+
+### About Me
+
+💼 I'm currently exploring various opportunities in the tech industry.
+🎓 I hold a degree in computer science from Firat University in Elazığ.
+💻 My areas of expertise include computers, software development, and Photoshop.
+🌱 I'm constantly learning and exploring new technologies and frameworks.
+📫 You can reach me via email at cagatayalkan.b@gmail.com.
+
+### Projects
+
+🚀 I'm passionate about building projects that improve my algorithms and knowledge.
+📦 Some of my notable projects include:
+
+##### [ASYS]: Learning About Encrypting Algorithms to enhance data security.
+##### [Mediapipe]: Exploring the Mediapipe library and using it for my group project.
+
+### Contributions
+
+💡 I actively contribute to open-source projects and enjoy collaborating with other developers.
+🛠 I'm proficient in programming languages like C#, Python, Java, and JavaScript.
+🖥️ I'm experienced in using technologies like Blender, Adobe Photoshop, and FL Studio.
+
+### Let's Connect
+
+🔗 Connect with me via email at cagatayalkan.b@gmail.com.
+Feel free to explore my repositories and reach out to collaborate on exciting projects!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyypabyfrp3z0le7niauo8s0l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/cagatay-softgineer/)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
