@@ -26,3 +26,4 @@
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
