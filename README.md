@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&margin-w=15" alt="cagatay-softgineer" /></a> 
+
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" /></p>
