@@ -4,7 +4,7 @@
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" />
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=compact" alt="cagatay-softgineer" /></p>
   <img  src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=false&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" />
 </span>
 <span align="right">
