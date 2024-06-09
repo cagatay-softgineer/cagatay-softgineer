@@ -29,7 +29,7 @@
 🔗 Connect with me via email at cagatayalkan.b@gmail.com.
 Feel free to explore my repositories and reach out to collaborate on exciting projects!
 
-<img  src="https://spotify-github-profile.vercel.app/api/view?uid=xyypabyfrp3z0le7niauo8s0l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="cagatay-softgineer" style="position: fixed !important; top: 0 !important; right: 0 !important; margin: 20px !important; z-index: 9999 !important;"/>
+<img  src="https://spotify-github-profile.vercel.app/api/view?uid=xyypabyfrp3z0le7niauo8s0l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="cagatay-softgineer" style="position: absolute !important; top: 0 !important; right: 0 !important; margin: 20px !important; z-index: 9999 !important;"/>
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
