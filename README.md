@@ -39,7 +39,7 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 
 </span>
 <span align="center">
-  <p><img style="max-width: 40%;height: auto;" src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=true&hide_border=false&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" /> <img style="max-width: 40%;height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=false&theme=black-ice&background=152238&stroke=00E6FE" alt="cagatay-softgineer" /></p>
+  <p><img style="max-width: 40% !important;height: auto !important;" src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=true&hide_border=false&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="cagatay-softgineer" /> <img style="max-width: 40% !important;height: auto !important;" src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=false&theme=black-ice&background=152238&stroke=00E6FE" alt="cagatay-softgineer" /></p>
   </p>
 </span>
 
