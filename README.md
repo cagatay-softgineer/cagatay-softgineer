@@ -33,5 +33,7 @@
 <a href="https://open.spotify.com/user/xyypabyfrp3z0le7niauo8s0l?si=ab88c1d4aa6645c0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
+<img src="https://widgetbite.com/stats/cagatay-softgineer" alt="watching_count" />
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
