@@ -8,7 +8,7 @@
 
 🎓 I hold a degree in computer science from Firat University in Elazığ.
 
-💻 My areas of expertise include computers, software development, and Photoshop.
+💻 My areas of expertise include computers, software development and Photoshop.
 
 🌱 I'm constantly learning and exploring new technologies and frameworks.
 
@@ -17,6 +17,7 @@
 ### Projects
 
 🚀 I'm passionate about building projects that improve my algorithms and knowledge.
+
 📦 Some of my notable projects include:
 
 ##### [ASYS]: Learning About Encrypting Algorithms to enhance data security.
