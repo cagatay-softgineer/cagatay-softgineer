@@ -36,7 +36,7 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en" alt="cagatay-softgineer" /> <p  content="https://leetcode-stats-api.herokuapp.com/Ryujin_b" alt="cagatay-softgineer" />
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&llayout=donut" alt="cagatay-softgineer" />
 
 </span>
 <span align="center">
