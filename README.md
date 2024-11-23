@@ -57,6 +57,8 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
 </p>
 
+<a href="https://info.flagcounter.com/EbIL"><img src="https://s11.flagcounter.com/count/EbIL/bg_292929/txt_F6F6F6/border_A8A8A8/columns_8/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <h2>☣️ &nbsp;Social Media</h2>
 <p>
 <a href="https://www.linkedin.com/in/cagatay-softgineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
