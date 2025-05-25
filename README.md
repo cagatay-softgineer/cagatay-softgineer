@@ -36,15 +36,23 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatay-softgineer&show_icons=true&locale=en&layout=donut" alt="cagatay-softgineer" />
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/cagatay-softgineer/cagatay-softgineer/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cagatay-softgineer/cagatay-softgineer/refs/heads/main/profile-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/cagatay-softgineer/cagatay-softgineer/refs/heads/main/profile-3d-contrib/profile-green-animate.svg" />
+	</picture>
+</p>
 
 </span>
 <span align="center">
-  <p><img style="max-width: 40% !important;height: auto !important;" src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=true&hide_border=false&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE&max_width=%60" alt="cagatay-softgineer" /> <img style="max-width: 40% !important;height: auto !important;" src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=false&theme=black-ice&background=152238&stroke=00E6FE&max_width=%60" alt="cagatay-softgineer" /></p>
+  <p><img style="max-width: 100% !important;height: auto !important;" src="https://github-readme-stats.vercel.app/api?username=cagatay-softgineer&show_icons=true&bg_color=292929&title_color=AAAAFF&icon_color=BBFF29&text_color=BBFFBB&min_width=%100" alt="cagatay-softgineer" />
+  <br>
+  <img style="max-width: 100% !important;height: auto !important;" src="https://github-readme-streak-stats.herokuapp.com?user=cagatay-softgineer&hide_border=false&theme=black-ice&background=292929&title_color=AAAAFF&icon_color=BBFF29&text_color=BBFFBB&min_width=%100" alt="cagatay-softgineer" /></p>
   </p>
 </span>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&margin-w=15" alt="cagatay-softgineer" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&margin-w=5" alt="cagatay-softgineer" /></a> 
 
 <h2>👨🏻‍💻 &nbsp;Development Tools And Environments:</h2>
 <p>
@@ -71,6 +79,6 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 </p>
 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=on-development-app)](https://github.com/cagatay-softgineer/on-development-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=mediapipe)](https://github.com/cagatay-softgineer/mediapipe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cagatay-softgineer&repo=Glass-Fragmentation-Heatmap)](https://github.com/cagatay-softgineer/Glass-Fragmentation-Heatmap)
