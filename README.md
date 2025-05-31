@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 👋 Welcome to my GitHub profile! I'm Çağatay, a passionate Backend Dev with a strong interest in anything related to computer science (CS). Here you'll find a variety of projects and contributions related to computers, software development, and Photoshop.
+#### 👋 Welcome to my GitHub profile! I'm Çağatay, a passionate Backend Dev with a strong interest in anything related to computer science (CS). Here you'll find a variety of projects and contributions related to computers, software development, and graphic design.
 
 ### About Me
 
