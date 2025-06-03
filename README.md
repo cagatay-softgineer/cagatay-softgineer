@@ -105,7 +105,7 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
   </p>
 </span>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&margin-w=5" alt="cagatay-softgineer" /></a> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cagatay-softgineer&theme=onedark)](https://github.com/cagatay-softgineer/github-profile-trophy)
 
 <h2>🗿 &nbsp;Visitors</h2>
 <p>
