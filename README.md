@@ -110,6 +110,8 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 <h2>🗿 &nbsp;Visitors</h2>
 <p>
 <a href="https://info.flagcounter.com/EbIL](https://s11.flagcounter.com/count/EbIL/bg_292929/txt_F6F6F6/border_A8A8A8/columns_8/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_0/"><img src="https://s11.flagcounter.com/count/EbIL/bg_292929/txt_F6F6F6/border_A8A8A8/columns_8/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+ ![Visitor Count](https://profile-counter.glitch.me/cagatay-softgineer/count.svg)
 </p>
 
 
