@@ -81,8 +81,6 @@
 ## Contributions
 
 💡 I actively contribute to open-source projects and enjoy collaborating with other developers.
-🛠 I'm proficient in programming languages like C#, Python, Java, and JavaScript.
-🖥️ I'm experienced in using technologies like Blender, Adobe Photoshop, and FL Studio.
 
 ## Let's Connect
 
