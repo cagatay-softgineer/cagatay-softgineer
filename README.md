@@ -14,7 +14,7 @@
 
 📫 You can reach me via email at cagatayalkan.b@gmail.com.
 
-https://buymeacoffee.com/chato
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/YOUR_USERNAME)
 
 ## 💻 Tech Stack
 
