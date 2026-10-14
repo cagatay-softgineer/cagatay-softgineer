@@ -14,14 +14,7 @@
 
 📫 You can reach me via email at cagatayalkan.b@gmail.com.
 
-## Projects
-
-🚀 I'm passionate about building projects that improve my algorithms and knowledge.
-
-📦 Some of my notable projects include:
-
-##### [ASYS]: Learning About Encrypting Algorithms to enhance data security.
-##### [Mediapipe]: Exploring the Mediapipe library and using it for my group project.
+https://buymeacoffee.com/chato
 
 ## 💻 Tech Stack
 
